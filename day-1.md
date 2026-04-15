@@ -5,6 +5,7 @@
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Create a first blog post.
+ ![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
 ## Review
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
